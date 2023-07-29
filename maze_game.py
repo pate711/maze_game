@@ -149,7 +149,7 @@ while run:
     if sprite.collide_rect(player1, enemy):
         finish = True
         window.blit(lose,(0,0))
-            
+        #12344234    
         
                 
     display.update()
